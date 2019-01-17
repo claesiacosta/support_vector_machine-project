@@ -1,2 +1,2 @@
-# Using Support Vector Machine Algorithm
+# Using Support Vector Machines Algorithm
 
